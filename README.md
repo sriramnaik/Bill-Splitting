@@ -234,7 +234,7 @@ settlements
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/jagadeesh-2006/Bill-Splitting.git
+git clone https://github.com/sriramnaik/Bill-Splitting
 cd Bill-Splitting/go-backend
 ```
 
@@ -480,7 +480,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💻 Author
 
-**Jagadeesh** - [GitHub Profile](https://github.com/jagadeesh-2006)
+**Ramavath Sriram** - [GitHub Profile](https://github.com/sriramnaik/)
 
 ---
 
